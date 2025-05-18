@@ -9,9 +9,13 @@ caches:
 
 menus:
   main:
+  - name: Home
+    pageRef: /_index
+    weight: 10
   - name: About
     pageRef: /about
     weight: 10
   - name: Donate
     pageRef: /donate
     weight: 10
+

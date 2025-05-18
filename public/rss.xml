@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Sun, 18 May 2025 10:41:57 PDT</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Saṅghapāla Foundation</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-05-18:/donate/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/donate/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/donate/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Sun, 18 May 2025 10:41:57 PDT</pubDate>
+                    
+
+                    
+                        <title>Donate</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-05-18:/about/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/about/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/about/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Sun, 18 May 2025 10:11:58 PDT</pubDate>
+                    
+
+                    
+                        <title>About</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
