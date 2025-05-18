@@ -6,3 +6,12 @@ sectionPagesMenu: main
 caches:
   images:
     dir: :cacheDir/images
+
+menus:
+  main:
+  - name: About
+    pageRef: /about
+    weight: 10
+  - name: Donate
+    pageRef: /donate
+    weight: 10
