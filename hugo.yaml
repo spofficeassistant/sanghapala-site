@@ -3,3 +3,6 @@ languageCode: en-us
 title: Saṅghapāla Foundation
 theme: ["PaperMod"]
 sectionPagesMenu: main
+caches:
+  images:
+    dir: :cacheDir/images
